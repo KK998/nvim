@@ -23,3 +23,9 @@ For ease of use, you can make a new mapping for CocList -> extensions, symbols e
 
 > [!NOTE]
 > Coc.nvim documentation has many more conf's if you need. Add as necessary.
+
+### Screenshot of working setup
+
+![my-nvim-setup](https://i.ibb.co/ZHqhYsr/configed-vim.png)
+
+> I'm using terminal multiplexer (tmux) for terminal setup... anythig can be used. The default is your shell in which you run vim.
