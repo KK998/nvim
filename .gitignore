@@ -1,2 +1,8 @@
-.git
+undodir
 undodir/*
+undodir/*/**
+./undodir
+./undodir/*
+./undodir/*/**
+undodir/%home%kk998%.config%nvim%init.vim
+undodir/%home%kk998%.config%nvim%README.md

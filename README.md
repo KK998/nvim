@@ -22,4 +22,4 @@ Just list the extensions, check their docs if they need some [config]('https://g
 For ease of use, you can make a new mapping for CocList -> extensions, symbols etc..
 
 > [!NOTE]
-> Coc.nvim documentation has many more conf's if you  > need. Add as necessary.
+> Coc.nvim documentation has many more conf's if you need. Add as necessary.
